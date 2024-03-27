@@ -16,6 +16,7 @@ int generateRandomNumber() {
     // TODO: Return the random number in range 1 to 100
     int genNum = rand() % 100 + 1;
     return genNum;
+    
 }
 
 
