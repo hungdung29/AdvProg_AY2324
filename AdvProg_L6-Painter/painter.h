@@ -33,6 +33,7 @@ class Painter
         int width, height;
         SDL_Color color;
         SDL_Renderer *renderer;
+        const double PI = 3.141592653589793238462;
 
     public:
     Painter();
